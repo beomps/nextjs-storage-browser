@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aws-amplify/storage": "^6.7.15",
-    "@aws-amplify/ui-react-storage": "^3.3.0",
-    "aws-amplify": "^6.13.5",
+    "@aws-amplify/ui-react-storage": "storage-browser",
+    "@aws-amplify/storage": "storage-browser",
+    "aws-amplify": "storage-browser",
     "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18"
